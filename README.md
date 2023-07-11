@@ -12,4 +12,4 @@ This is an example of an A/B on an Unity app using 2 cases. For usage clone this
 
 For see how the app is tracking the amount of interactions in each case or element you can click on the botton left button.
 
-![AB Samples](dist/SS2.png)
+![AB Samples](dist/SS2.PNG)
